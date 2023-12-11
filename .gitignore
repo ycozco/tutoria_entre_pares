@@ -1,0 +1,50 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración del entorno
+.env
+
+# Directorios de compilación y producción
+/frontend/build/
+/backend/dist/
+
+# Archivos de registros
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema de archivos de Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de sistema de Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Iconos de Windows
+Icon?
+
+# Archivos de imagen de la caché de Vista Previa
+com.apple.timemachine.donotpresent
+
+# Archivos de bloqueo de paquetes
+package-lock.json
+yarn.lock
+
+# Carpeta opcional de TypeScript
+*.tsbuildinfo
+
+# Archivos de mapa de fuente
+*.map
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Directorios específicos del IDE
+.vscode/
+
+# Archivos de configuración de herramientas de desarrollo
+/tsconfig.json
+/.tscache/
